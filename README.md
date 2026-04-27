@@ -31,9 +31,9 @@
 
 👉 Start here:
 
-* 📄 [Java Basics](./001-java-basics.md)
-* 📄 [JVM, JRE, JDK](./002-jvm-jre-jdk.md)
-* 📄 [Scanner & System](./003-scanner-system-input.md)
+* 📄 [Java Basics](./Section%20-%201/001-java-basics.md)
+* 📄 [JVM, JRE, JDK](./Section%20-%201/002-jvm-jre-jdk.md)
+* 📄 [Scanner & System](./Section%20-%201/003-scanner-system-input.md)
 
 ---
 
